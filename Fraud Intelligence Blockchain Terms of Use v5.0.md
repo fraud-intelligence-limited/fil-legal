@@ -1,6 +1,6 @@
 # Fraud Intelligence Blockchain Service Terms and Conditions
 
-`Effective date: September 2023`
+`Effective date: December 2023`
 
 ## INTRODUCTION
 
