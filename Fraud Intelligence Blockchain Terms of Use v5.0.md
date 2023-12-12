@@ -12,7 +12,7 @@ The Consortium does this by using blockchain technology to share fraud intellige
 
 ### B) PARTIES TO THE FRAUD INTELLIGENCE BLOCKCHAIN CONSORTIUM
 
-SORAMITSU and Orillion are business partners who collectively founded Fraud Intelligence Limited, the owners of the Fraud Intelligence Blockchain technology.
+Soramitsu and Orillion are business partners who collectively founded Fraud Intelligence Limited, the owners of the Fraud Intelligence Blockchain technology.
 
 Fraud Intelligence Limited is responsible for reviewing and approving applications to join the consortium, as well as being responsible for the ongoing promotion of the project within the industry.
 
