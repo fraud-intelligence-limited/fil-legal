@@ -12,7 +12,7 @@ The Consortium does this by using blockchain technology to share fraud intellige
 
 ### B) PARTIES TO THE FRAUD INTELLIGENCE BLOCKCHAIN CONSORTIUM
 
-Risk & Assurance Group (RAG), SORAMITSU and Orillion are business partners who collectively founded Fraud Intelligence Limited, the owners of the Fraud Intelligence Blockchain technology.
+SORAMITSU and Orillion are business partners who collectively founded Fraud Intelligence Limited, the owners of the Fraud Intelligence Blockchain technology.
 
 Fraud Intelligence Limited is responsible for reviewing and approving applications to join the consortium, as well as being responsible for the ongoing promotion of the project within the industry.
 
@@ -61,8 +61,6 @@ Please read these terms of use carefully before you register or use Fraud Intell
 **Process** means any operation or set of operations which is performed on Personal Data or on sets of Personal Data, whether or not by automated means, such as collection, enrichment, recording, organisation, structuring, storage, adaptation or alteration, retrieval, consultation, use, reporting, notification, disclosure by transmission, dissemination or otherwise making available, alignment or combination, restriction, erasure or destruction. Processing has the corresponding meaning.
 
 **Purpose** means reducing electronic telecommunications fraud and crime.
-
-**RAG** means the Risk & Assurance Group, a not-for-profit corporation, incorporated as RAG Global Limited in England, with company number 10454593.
 
 **Fraud Intelligence Blockchain Service** means the Fraud Intelligence Blockchain Service provided by Fraud Intelligence Limited via the Platform.
 
