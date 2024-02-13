@@ -152,7 +152,7 @@ Please read these terms of use carefully before you register or use Fraud Intell
 
 7.4 Fraud Intelligence Limited may from time to time, on reasonable advance written notice to you, change: (i) the number of Tokens consumed to access a Data Record; and (ii) the number of Tokens earned when Submitting a Data Record.
 
-7.5 Tokens are personal to you and your User Account, and cannot be transferred to any other user or User Account. You agree not to attempt to sell or otherwise transfer your Tokens.
+7.5 Tokens are awarded to your registered organization account and cannot be transferred between organizations or user accounts within an organization. You agree not to attempt to sell or otherwise transfer your Tokens.
 
 7.6 If you are a Premium Subscriber, following payment of your invoice for the Subscription, there is no limit on how much Fraud Intelligence Data you may access, accessing Fraud Intelligence Data will not consume any Tokens associated with your User Account and you will not be required to have Tokens in your User Account to access the Fraud Intelligence Data.
 
