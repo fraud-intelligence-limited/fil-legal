@@ -1,6 +1,6 @@
 # Fraud Intelligence Blockchain Service Terms and Conditions
 
-`Effective date: December 2023`
+`Effective date: [February] 2024`
 
 ## INTRODUCTION
 
@@ -42,7 +42,7 @@ Please read these terms of use carefully before you register or use Fraud Intell
 
 **Data Record** means a range of numbers that a customer can submit onto the Platform, which may be IP addresses or phone numbers, and the associated meta data, which may include fraud type, origination country, expiry date, status (e.g., active/flagged, expired, and identifier of the customer who uploaded it).
 
-**Fees** means the subscription fees payable by Premium Subscribers for use of the Fraud Intelligence Blockchain Service in accordance with sections 7 and 8,  as notified to you as part of your application to be a Premium Subscriber and as may be varied from time to time in accordance with clause 8.9.
+**Fees** means the subscription fees payable by Premium Subscribers for use of the Fraud Intelligence Blockchain Service in accordance with sections 7 and 8,  as notified to you as part of your application to be a Premium Subscriber and as may be varied from time to time in accordance with clause 8.10.
 
 **Fraud Intelligence Data** means the information contained in Schedule 1, and any other data the Fraud Intelligence Blockchain Consortium may add to the Platform in the future.
 
@@ -96,7 +96,7 @@ Please read these terms of use carefully before you register or use Fraud Intell
 
 ## 2. REGISTRATION AND EXISTING FRAUD INTELLIGENCE CONTRIBUTORS
 
-2.1 You may apply to access the Fraud Intelligence Services (and as part of that application you will indicate whether or not you wish to be a Premium Subscriber. Fraud Intelligence Limited  will be entitled, in its sole discretion, to approve or reject any application. Access to the Fraud Intelligence Service will not be provided unless and until your application is approved (and access to a Subscription will not be granted until payment of the invoice for that Subscription).
+2.1 You may apply to access the Fraud Intelligence Services (and as part of that application you will indicate whether or not you wish to be a Premium Subscriber). Fraud Intelligence Limited  will be entitled, in its sole discretion, to approve or reject any application. Access to the Fraud Intelligence Service will not be provided unless and until your application is approved (and access to a Subscription will not be granted until payment of the invoice for that Subscription).
 
 2.2 By registering to access the Fraud Intelligence Blockchain Service, you agree that any information you contribute may be provided to other members of the Fraud Intelligence Blockchain Consortium.
 
@@ -146,13 +146,13 @@ Please read these terms of use carefully before you register or use Fraud Intell
 
 7.1 Following the initial set up of the account associated with your User Credentials (the “**User Account**”), Fraud Intelligence Limited will credit your User Account with a number of Tokens (as specified by Fraud Intelligence Limited at https://blockchain.fraudintelligencelimited.com/, and as may be updated by Fraud Intelligence Limited from time to time in accordance with clause 7.4).
 
-7.2 Unless you are a Premium Subscriber, each Data Record which you access will consume one of the Tokens in your User Account and you will not be able to access any Fraud Intelligence Data unless you have sufficient Tokens in your User Account.
+7.2 Unless you are a Premium Subscriber, each Data Record which you access will consume some of the Tokens in your User Account and you will not be able to access any Fraud Intelligence Data unless you have sufficient Tokens in your User Account (as specified by Fraud Intelligence Limited at https://blockchain.fraudintelligencelimited.com/, and as may be updated by Fraud Intelligence Limited from time to time in accordance with clause 7.4).
 
 7.3 You can earn additional Tokens by Submitting additional Fraud Intelligence Data. For each Data Record contained in any Submission, Fraud Intelligence Limited will credit your User Account with a number of Tokens (as specified by Fraud Intelligence Limited at https://blockchain.fraudintelligencelimited.com/, and as may be updated by Fraud Intelligence Limited from time to time in accordance with clause 7.4).
 
 7.4 Fraud Intelligence Limited may from time to time, on reasonable advance written notice to you, change: (i) the number of Tokens consumed to access a Data Record; and (ii) the number of Tokens earned when Submitting a Data Record.
 
-7.5 Tokens are personal to you and your User Account, and cannot be transferred to any other user or User Account. You agree not to attempt to sell or otherwise transfer your Tokens.
+7.5 Tokens are awarded to your registered organization account and cannot be transferred between organizations or user accounts within an organization. You agree not to attempt to sell or otherwise transfer your Tokens.
 
 7.6 If you are a Premium Subscriber, following payment of your invoice for the Subscription, there is no limit on how much Fraud Intelligence Data you may access, accessing Fraud Intelligence Data will not consume any Tokens associated with your User Account and you will not be required to have Tokens in your User Account to access the Fraud Intelligence Data.
 
@@ -160,21 +160,23 @@ Please read these terms of use carefully before you register or use Fraud Intell
 
 8.1 If you are a Premium Subscriber, Fees for your access to the Fraud Intelligence Data are payable to Fraud Intelligence Limited in advance, prior to access of your Subscription being granted. Fees are payable: (a) within 30 days of invoice by Fraud Intelligence Limited; or (b) prior to the expiry date of your then-current Subscription if you are renewing a Subscription. Your Subscription commences on the date that your payment and application has been processed by Fraud Intelligence Limited. You should allow up to 30 days for the processing of your application and payment prior to the commencement of your Subscription. No refunds or discounts are provided due to any delay in processing your application or payment.
 
-8.2 Invoices will be generated following your successful registration and agreement to this Agreement, and then [monthly in advance of your Subscription renewing]. Invoices will be delivered by email to your billing contact provided in the registration process.
+8.2 Relevant Premium Subscriber Fee amount is one thousand US dollars monthly or twelve thousand US dollars annually respectively. If currency conversion is required and generates additional expenses, then you will be liable for covering for its payment, in addition to the amount of the Fees.
 
-8.3 Payment of invoices must be made by bank/wire transfer in accordance with the invoice instructions. Please note that payment by bank transfer can take 5 to 10 working days for the money to reach Fraud Intelligence Limited. Your User Credentials for the Platform will not be provided until the invoice payment has been received to the Fraud Intelligence Limited account indicated on the invoice. You will be sent a notification email when the payment has been received.
+8.3 Invoices will be generated following your successful registration and agreement to this Agreement, and then [monthly in advance of your Subscription renewing]. Invoices will be delivered by email to your billing contact provided in the registration process.
 
-8.4 Upon the expiration of the Subscription, your Subscription will automatically renew for successive one-month Subscriptions (each a “Renewal Subscription”), unless (i) you provide written notice of non-renewal at least 30 days prior to the end of the then-current Subscription; or (ii) your Subscription is otherwise terminated in accordance with this Agreement. Fraud Intelligence Limited will invoice you for the Renewal Subscription no later than 30 days prior to the expiry of the then- current Subscription.
+8.4 Payment of invoices must be made by bank/wire transfer in accordance with the invoice instructions. Please note that payment by bank transfer can take 5 to 10 working days for the money to reach Fraud Intelligence Limited. Your Premium Subscription conditions in the Platform will not be applied until the invoice payment has been received to the Fraud Intelligence Limited account indicated on the invoice. You will be sent a notification email when the payment has been received.
 
-8.5 In the event of late or non-payment of any invoice for a period of ten days or more following a late payment reminder, Fraud Intelligence Limited may suspend your Platform account and/or terminate this Agreement in its sole discretion.
+8.5 Upon the expiration of the Subscription, your Subscription will automatically renew for successive one-month Subscriptions (each a “Renewal Subscription”), unless (i) you provide written notice of non-renewal at least 30 days prior to the end of the then-current Subscription; or (ii) your Subscription is otherwise terminated in accordance with this Agreement. Fraud Intelligence Limited will invoice you for the Renewal Subscription no later than 30 days prior to the expiry of the then- current Subscription.
 
-8.6 The Fees do not include any Tax. To the extent that the Fees are subject to any Tax, the Fees may be increased by the amount of such Tax and Fraud Intelligence Limited reserves the right to recover such Tax from you at any time. If Tax is required to be paid on the Fees in your own country, then you will be liable for its payment, in addition to the amount of the Fees.
+8.6 In the event of late or non-payment of any invoice for a period of ten days or more following a late payment reminder, Fraud Intelligence Limited may suspend your Platform account and/or terminate this Agreement in its sole discretion.
 
-8.7 If you fail to pay the Fees by the due date for such payment, then, without limiting its other rights under this Agreement, Fraud Intelligence Limited may charge interest on the overdue amount at the rate of two percent above the Sterling Overnight Index Average (SONIA) in effect as of the due date of the relevant payment. You shall pay such interest together with the overdue amount.
+8.7 The Fees do not include any Tax. To the extent that the Fees are subject to any Tax, the Fees may be increased by the amount of such Tax and Fraud Intelligence Limited reserves the right to recover such Tax from you at any time. If Tax is required to be paid on the Fees in your own country, then you will be liable for its payment, in addition to the amount of the Fees.
 
-8.8 Fraud Intelligence Limited may at any time set off any liability of yours to the Fraud Intelligence Limited against any other liability of yours to the Fraud Intelligence Limited or any of its Affiliates, whether or not either liability arises under this Agreement. If the relevant liabilities are expressed in different currencies, Fraud Intelligence Limited may convert either liability at a market rate of exchange for the purpose of set-off. Any exercise by Fraud Intelligence Limited of its rights under this clause will not limit or affect any other rights or remedies available to Fraud Intelligence Limited under this Agreement or otherwise.
+8.8 If you fail to pay the Fees by the due date for such payment, then, without limiting its other rights under this Agreement, Fraud Intelligence Limited may charge interest on the overdue amount at the rate of two percent above the Sterling Overnight Index Average (SONIA) in effect as of the due date of the relevant payment. You shall pay such interest together with the overdue amount.
 
-8.9 We may increase the Fees payable by Premium Subscribers for future Renewal Subscriptions by giving not less than 30 days written notice prior to the commencement of the Renewal Subscription to which they relate. If you do not agree to the increase in Fees, then you should give notice to prevent the renewal of the Subscription, under clause 8.4.
+8.9 Fraud Intelligence Limited may at any time set off any liability of yours to the Fraud Intelligence Limited against any other liability of yours to the Fraud Intelligence Limited or any of its Affiliates, whether or not either liability arises under this Agreement. If the relevant liabilities are expressed in different currencies, Fraud Intelligence Limited may convert either liability at a market rate of exchange for the purpose of set-off. Any exercise by Fraud Intelligence Limited of its rights under this clause will not limit or affect any other rights or remedies available to Fraud Intelligence Limited under this Agreement or otherwise.
+
+8.10 We may increase the Fees payable by Premium Subscribers for future Renewal Subscriptions by giving not less than 30 days written notice prior to the commencement of the Renewal Subscription to which they relate. If you do not agree to the increase in Fees, then you should give notice to prevent the renewal of the Subscription, under clause 8.5.
 
 ## 9. INTELLECTUAL PROPERTY
 
@@ -262,7 +264,7 @@ You may disclose to the Permitted Affiliates, and authorize the Permitted Affili
 
 15.7 Upon termination or expiry of this Agreement for any reason, no refunds, discount or credit will be offered in respect of the termination, expiry, or failure by you to renew your Subscription, except where: (a) Fraud Intelligence Limited terminates this Agreement for convenience pursuant to clause 15.3; or (b) you terminate this Agreement pursuant to clause 19, while you currently hold a Subscription, in which case Fraud Intelligence Limited will provide a pro rata refund for the remaining months prepaid in your Subscription.
 
-15.8 Upon termination or expiry of this Agreement for any reason whatsoever: (a) your access to the Platform will be withdrawn; (b) Fraud Intelligence Limited will retain your Submissions for use within the Fraud Intelligence Blockchain Service for the remainder of the Retention Period; (c) your licence under clause 9.1 for any Fraud Intelligence Data that you received prior to the effective date of termination shall continue, subject to the requirements set out in this Agreement; (d) you may continue to modify your existing Submissions in accordance with clause 5.1, by contacting Fraud Intelligence Limited at [email address needed]; (e) termination will be without prejudice to either party's rights and remedies in respect of any breach of this Agreement by the other party, where the breach occurred before the termination of this Agreement; and (f) the provisions of clauses 3.2, 4.4, 5.3, 8.8, 9, 10, 1, 12, 15.7, 15.8, 16, 17, 18 and 19 of this Agreement, together with such other provisions reasonably required to give effect to those clauses or which by their nature are intended to survive termination, will remain in full force and effect following termination or expiry.
+15.8 Upon termination or expiry of this Agreement for any reason whatsoever: (a) your access to the Platform will be withdrawn; (b) Fraud Intelligence Limited will retain your Submissions for use within the Fraud Intelligence Blockchain Service for the remainder of the Retention Period; (c) your licence under clause 9.1 for any Fraud Intelligence Data that you received prior to the effective date of termination shall continue, subject to the requirements set out in this Agreement; (d) you may continue to modify your existing Submissions in accordance with clause 5.1, by contacting Fraud Intelligence Limited at [email address needed]; (e) termination will be without prejudice to either party's rights and remedies in respect of any breach of this Agreement by the other party, where the breach occurred before the termination of this Agreement; and (f) the provisions of clauses 3.2, 4.4, 5.3, 8.9, 9, 10, 1, 12, 15.7, 15.8, 16, 17, 18 and 19 of this Agreement, together with such other provisions reasonably required to give effect to those clauses or which by their nature are intended to survive termination, will remain in full force and effect following termination or expiry.
 
 ## 16. DISCLAIMERS AND BASIS OF SERVICE PROVISION
 
